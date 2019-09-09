@@ -1,0 +1,19 @@
+{
+     "filename": "Superstore/npy_files/Superstore_predictions_fittrain_predtest_complement_approachbinary_splitorders_countFalse_infoTrue_Kategorie_Kategorie.npy",
+     "mse": 0.023749491279192486,
+     "neg_log_loss": 0.07631467288134633,
+     "Accuracy": 0.9985433207225449,
+     "Precision": 0.0,
+     "Recall": 0.0,
+     "F1": 0.0,
+     "tn": 1499173,
+     "fp": 189,
+     "fn": 1998,
+     "tp": 0,
+     "top_10_score": 0.021021021021021023,
+     "top_20_score": 0.03553553553553553,
+     "top_50_score": 0.06656656656656657,
+     "top_100_score": 0.10260260260260261,
+     "top_200_score": 0.15015015015015015,
+     "top_500_score": 0.27377377377377377
+}

@@ -1,0 +1,38 @@
+{
+     "dataset": "Superstore",
+     "file_name_list": [
+          "Superstore",
+          "Superstore_train",
+          "Superstore_test",
+          "Superstore_valid"
+     ],
+     "col_name_list": [
+          "Kundenname",
+          "Produktname"
+     ],
+     "show_progress": false,
+     "use_user_info": false,
+     "user_features": [],
+     "user_features_prep_types": [],
+     "n_info_cols": 0,
+     "approach": "multi",
+     "model_type": "multinomial",
+     "count": true,
+     "split_ratio": [
+          0.7,
+          0.2,
+          0.1
+     ],
+     "split": "clients",
+     "alpha": 1.0,
+     "fit_prior": true,
+     "train_batch_size": 5000,
+     "pred_batch_size": 5000,
+     "n_Produkte": 1915,
+     "n_Kunden": 784,
+     "info_string": "",
+     "fit_set": "train",
+     "pred_set": "test",
+     "n_train_batches": 2,
+     "n_pred_batches": 1
+}

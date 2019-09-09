@@ -1,0 +1,19 @@
+{
+     "filename": "Superstore/npy_files/Superstore_predictions_fittrain_predtest_multinomial_approachbinary_splitclients_countFalse_infoTrue.npy",
+     "mse": 0.003577085980539,
+     "neg_log_loss": 0.026558556874768345,
+     "Accuracy": 0.9962182568059736,
+     "Precision": 0.9743875278396437,
+     "Recall": 0.4399195575666164,
+     "F1": 0.6061655697956356,
+     "tn": 298643,
+     "fp": 23,
+     "fn": 1114,
+     "tp": 875,
+     "top_10_score": 0.4343891402714932,
+     "top_20_score": 0.6123680241327301,
+     "top_50_score": 0.6611362493715435,
+     "top_100_score": 0.6862745098039216,
+     "top_200_score": 0.7290095525389643,
+     "top_500_score": 0.7888386123680241
+}

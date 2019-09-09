@@ -1,0 +1,19 @@
+{
+     "filename": "Superstore/npy_files/Superstore_predictions_fittrain_predtest_complement_approachmulti_splitclients_countFalse_infoTrue.npy",
+     "mse": 0.006913055621260204,
+     "neg_log_loss": 0.051551073022090006,
+     "Accuracy": 0.7828807104488533,
+     "Precision": 0.024898885865070892,
+     "Recall": 0.7957712638154734,
+     "F1": 0.04828692229187928,
+     "tn": 233721,
+     "fp": 64853,
+     "fn": 425,
+     "tp": 1656,
+     "top_10_score": 0.4906295050456511,
+     "top_20_score": 0.6842864007688612,
+     "top_50_score": 0.7323402210475732,
+     "top_100_score": 0.7385872176838059,
+     "top_200_score": 0.7477174435367612,
+     "top_500_score": 0.786641037962518
+}

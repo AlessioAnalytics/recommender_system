@@ -1,0 +1,19 @@
+{
+     "filename": "Superstore/npy_files/Superstore_predictions_fittrain_predtest_bernoulli_approachbinary_splitclients_countFalse_infoTrue.npy",
+     "mse": 0.006818446392077594,
+     "neg_log_loss": 0.2353774326525584,
+     "Accuracy": 0.993181553607956,
+     "Precision": 0.0,
+     "Recall": 0.0,
+     "F1": 0.0,
+     "tn": 298605,
+     "fp": 0,
+     "fn": 2050,
+     "tp": 0,
+     "top_10_score": 0.03560975609756097,
+     "top_20_score": 0.05365853658536585,
+     "top_50_score": 0.10975609756097561,
+     "top_100_score": 0.1873170731707317,
+     "top_200_score": 0.2624390243902439,
+     "top_500_score": 0.5121951219512195
+}

@@ -1,0 +1,27 @@
+{
+     "dataset": "Superstore",
+     "file_name": "Superstore_test",
+     "n_rows": 2000,
+     "data_keys": [
+          "Kundenname",
+          "Produktname"
+     ],
+     "prep_types": [
+          "indexing",
+          "indexing"
+     ],
+     "keys": {
+          "Kundenname": {
+               "n_unique": 698,
+               "col_keys": [
+                    "Kundenname_index"
+               ]
+          },
+          "Produktname": {
+               "n_unique": 1152,
+               "col_keys": [
+                    "Produktname_index"
+               ]
+          }
+     }
+}

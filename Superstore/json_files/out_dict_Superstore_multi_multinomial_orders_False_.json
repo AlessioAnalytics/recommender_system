@@ -1,0 +1,19 @@
+{
+     "filename": "Superstore/npy_files/Superstore_predictions_fittrain_predtest_multinomial_approachmulti_splitorders_countFalse_infoFalse.npy",
+     "mse": 0.0013298302626695484,
+     "neg_log_loss": 0.010789581965580324,
+     "Accuracy": 0.6149098151009751,
+     "Precision": 0.001249989179456549,
+     "Recall": 0.3613613613613614,
+     "F1": 0.0024913604656980723,
+     "tn": 922479,
+     "fp": 576883,
+     "fn": 1276,
+     "tp": 722,
+     "top_10_score": 0.0025025025025025025,
+     "top_20_score": 0.0045045045045045045,
+     "top_50_score": 0.013513513513513514,
+     "top_100_score": 0.03553553553553553,
+     "top_200_score": 0.08758758758758758,
+     "top_500_score": 0.24824824824824826
+}

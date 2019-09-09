@@ -1,0 +1,19 @@
+{
+     "filename": "Superstore/npy_files/Superstore_predictions_fittrain_predtest_gaussian_approachmulti_splitclients_countFalse_infoTrue_Segment_Kategorie.npy",
+     "mse": 0.0066854035356139095,
+     "neg_log_loss": 0.23090565782631506,
+     "Accuracy": 0.9933145964643861,
+     "Precision": 0.0,
+     "Recall": 0.0,
+     "F1": 0.0,
+     "tn": 298645,
+     "fp": 0,
+     "fn": 2010,
+     "tp": 0,
+     "top_10_score": 0.011442786069651741,
+     "top_20_score": 0.020895522388059702,
+     "top_50_score": 0.03383084577114428,
+     "top_100_score": 0.05522388059701493,
+     "top_200_score": 0.10945273631840796,
+     "top_500_score": 0.3024875621890547
+}
